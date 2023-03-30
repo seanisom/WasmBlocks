@@ -4,6 +4,6 @@
 
 Wasmio 2023 Barcelona Talk by Sean Isom
 
-Code coming soon - presentation is availabe in WasmBlocks.pdf
+Code coming soon - presentation is available in WasmBlocks.pdf
 
 Feel free to reach out with any questions.
